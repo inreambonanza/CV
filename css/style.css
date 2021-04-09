@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    background-color: #ecf4f3;
+    color: #2c2c2c;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+
+h1,
+h2 {
+    color: #66BFBF;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+hr {
+    margin: 100px auto 100px auto;
+    border: 0;
+    border-top: 5px dotted #4bb2b6;
+    width: 4%;
+}
+
+p {
+    margin: 0;
+    padding: 5px;
+}
+
+footer {
+    margin: 0;
+    padding: 20px 0 20px 0;
+    background-color: #4bb2b6;
+    font-size: 12px;
+}
+
+.intro {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.moon {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-container {
+    background-color: #e9fff6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {}
+
+.profile {}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.mountain {
+    width: 55%;
+}
+
+.btn {
+    font-family: 'Montserrat', serif;
+    font-size: 15px;
+    background-color: #11999E;
+    color: white;
+    margin: 0;
+    text-decoration: none;
+    padding: 5px;
+    border: solid;
+    border-color: transparent;
+    border-radius: 15px;
+}
+
+.btn:hover {
+    background-color: snow;
+    color: #11999E;
+}
+
+.credits-icon {
+    font-size: 11px;
+}
+
+.credits {
+    color: #ecf4f3;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.footer-link {
+    color: #236263;
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.footer-link:hover {
+    color: snow;
+}
+
+
+/* .red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+}
+
+.blue {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+}
+
+.yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+} */
